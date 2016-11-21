@@ -1,2 +1,2 @@
 # pgs_in_C
-Seal R script into C
+Sealing R script into C
